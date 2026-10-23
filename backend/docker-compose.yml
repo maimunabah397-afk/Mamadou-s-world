@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: mamadousworld-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: mamadousworld
+      POSTGRES_USER: mamadousworld
+      POSTGRES_PASSWORD: spring
+    ports:
+      - "5435:5432"

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Purple</title>
+  <desc id="desc">A purple color swatch for a children's learning flashcard.</desc>
+  <rect x="12" y="12" width="488" height="488" rx="42" fill="#F0DFFF" stroke="#8A35D6" stroke-opacity="0.35" stroke-width="8"/>
+  <circle cx="256" cy="220" r="128" fill="#8A35D6" stroke="#8A35D6" stroke-width="8"/>
+  <ellipse cx="218" cy="168" rx="42" ry="20" transform="rotate(-28 218 168)" fill="#FFFFFF" opacity="0.35"/>
+  <text x="256" y="420" font-family="Nunito, Arial, sans-serif" font-size="58" font-weight="800" text-anchor="middle" fill="#25204A">Purple</text>
+</svg>
